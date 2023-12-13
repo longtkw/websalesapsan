@@ -46,7 +46,7 @@
 
 #banner{
     width:100%;
-    background-image: url("assets/platter-2009590_1920.jpg");
+    background-image: url("platter-2009590_1920.jpg");
     height:680px;
     margin-top: 30px;
     display:flex;
@@ -281,7 +281,7 @@
 }
 
 #saleoff .box-right{
-    background-image: url("assets/pexels-karolina-grabowska-5718025.jpg");
+    background-image: url("pexels-karolina-grabowska-5718025.jpg");
 }
 .avatar img{
     border: none;
